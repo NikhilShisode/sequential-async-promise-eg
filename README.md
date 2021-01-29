@@ -8,13 +8,13 @@ npm run start
 
 ```
 generator function
-sequence - 1, after - 9 sec, data - 10
-sequence - 2, after - 3 sec, data - 10
-sequence - 3, after - 6 sec, data - 10
+sequence - 1, time required- 9 sec, data received after - 9.287 sec, data - 10
+sequence - 2, time required- 3 sec, data received after - 12.562 sec, data - 10
+sequence - 3, time required- 6 sec, data received after - 18.854 sec, data - 10
 normal function
-sequence - 2, after - 3 sec, data - 10
-sequence - 3, after - 6 sec, data - 10
-sequence - 1, after - 9 sec, data - 10
+sequence - 2, time required- 3 sec, data received after - 3.311 sec, data - 10
+sequence - 3, time required- 6 sec, data received after - 6.268 sec, data - 10
+sequence - 1, time required- 9 sec, data received after - 9.287 sec, data - 10
 ```
 
 # explaination -
